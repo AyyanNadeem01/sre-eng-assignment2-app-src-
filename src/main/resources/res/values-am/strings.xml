@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">ወደ Lite ያክሉ</string>
+    <string name="accessibility_link_role">ማስፈንጠሪያ</string>
+    <string name="audio_player_content_description">የኦዲዮ ማጫወቻ</string>
+    <string name="common_google_play_services_unknown_issue">%1$s በGoogle Play አገልግሎቶች ላይ ችግሮች እያጋጠሙት ነው። እባክዎ እንደገና ይሞክሩ።</string>
+    <string name="dcp_mock_payment_alert_text">በሙከራ ክፍያ መቀጠል ይፈልጋሉ? እንዲከፍሉ አይደረጉም።</string>
+    <string name="dialog_cancel">ይሰርዙ</string>
+    <string name="dialog_ok">እሺ</string>
+    <string name="external_share_to_groups_intent_label">የእርስዎ ቡድኖች</string>
+    <string name="external_share_to_messaging_intent_label">መልዕክት መላክ</string>
+    <string name="external_share_to_story_intent_label">የእርስዎ ታሪክ</string>
+</resources>

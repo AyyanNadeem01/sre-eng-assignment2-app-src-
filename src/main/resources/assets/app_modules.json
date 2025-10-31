@@ -1,0 +1,293 @@
+{
+  "built_in": [],
+  "downloadable": [
+    {
+      "disabled": false,
+      "hash": "65d2d8824b9cc2877757962b43fffe33db693c800941daa026473c01b80aeedf",
+      "name": "audiencenetwork",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "4061810a1d5a8a9bb63b975b58a9ef9559273150f3c5d6dd7c0f2055738778f4",
+      "name": "avif",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "8c5bd3d3f7b55661fdb6b4857ba9a839ed443ab9eb0ceb1150dfe72e2b136547",
+      "name": "blokscamera",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "bb54b7dae582e6c0ae0936f1b50f1d5a0744cf6697117f850a371374bd0f4111",
+      "name": "boost",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "dc34a2cb6e3760300faecd8da0c948ab865388e3d0b7426757627e39d6f42564",
+      "name": "camera",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "454ae3104e9a7ce0be4294aad47107434e2d63259ddbe0df5987fa24ee6931af",
+      "name": "data1",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "28a6d28eb67fc380eb413a97db2c8076f033698e9f5c544048cad458149bc03e",
+      "name": "data1024",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "2766324a593f3f0bcceac95a30858bb99d6645c2b638806ac4bed44edf1c77a9",
+      "name": "data128",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "5a4b70c38efbc0dc060e0d8f7fd008cfaf3aff760ab9c95e2e33d4cd5179af2c",
+      "name": "data2048",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "ff251a9de36566227d98ecc21da09cb77f3f1c5192164050f3499f0d223cc614",
+      "name": "data256",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "e2432b1ea9f938e188c9aabc88cc70cd705a60e14c53d81ade32e4238ed9b3af",
+      "name": "data512",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "a3da3cc454dbd86b74f2cecab03dfd2c9760367cb62caa4e08eb4271a3df89e4",
+      "name": "fizz",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "8e4f0d476784c449e02c0372a6c7ef60d3fbe9c5a09e536afcb861902e66c5b5",
+      "name": "heroplayer",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "566fafc502ba617c1fccc5e1d61cb7728de7686dccb401eebf166438c1c33bab",
+      "name": "inappbrowser",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "1b3f0f19dfd4359b97cc5372e776f9a7322f05df074c17d257ea49e6249dc4b8",
+      "name": "libunwindstack",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "f09843c7ebdeda523bf6f474c07ec0c9574cae26eaa4544614c0461b4be21178",
+      "name": "mediastreaming",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "c3542c053c666e6d0fa2249c34a9158313676359f2333bc913a56a52ca4e7ddb",
+      "name": "mnshttp",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "b83f87a9cb5ca7f4b0ce902daa4d03f9672f45f77c7f3fb1a9aff5f905bc521b",
+      "name": "msys",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "d587922fa8eff93b154e7c2bc8abf83861a1ceb34129c4b051d988d67a39d6c8",
+      "name": "msysinfra",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "2992e61acf1d453c1200042c21ea710c37d9725380deeada758cc54b3c7e5d49",
+      "name": "multisignalanrdetector",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "0d5c75c60add2ca19f958f1804f6e21d7f6b0cb17f7fb37523f9bde086b4b0ba",
+      "name": "profilo",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "04e4756961cd040abf1c0f11eaae7c1ebf9878e6ae4db02d33d0a2e558ec99c5",
+      "name": "rtc",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "3d42c92efe3cfa113d079e54747cecbf82e6e2232efd932191e986a7dcfbd66f",
+      "name": "s_avif_heroplayer",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "",
+      "name": "s_avif_heroplayer_rtc",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "8a596b94973e759fa5ddeb18b4855c26ea95ceab71ba185669ef91abb4b9fc44",
+      "name": "s_blokscamera_boost",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "8c776b1cacb78bd23a68a8716f881e6085f94818f49e6b8730267ad3ccc7992b",
+      "name": "s_blokscamera_camera",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "f1993259f6c13e65ad2226b257ab38fba71166189d6c03114b071a3b55e21446",
+      "name": "s_blokscamera_rtc",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "",
+      "name": "s_boost_mediastreaming_msysinfra",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "5a4bbb0fdd12da9ffa2d8d5c966880c1984d66345ed17ba01e81a92a3f4e90d5",
+      "name": "s_boost_msys",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "4983f8c68a16ef57535d68b491eb5a35d4e9fd44962d0c61afe42d3e815a604e",
+      "name": "s_boost_msysinfra",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "a15ea98cd605ee85aa8bf17937e7dc08a45dbceb85c1d73ed6c9956da6c1dec8",
+      "name": "s_boost_multisignalanrdetector",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "0204905327fe439dc60a2762b059a8f0ae3cef17aca1b71240f3af3a7069bb08",
+      "name": "s_boost_profilo",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "58e136ccf8e4d74c89ceebc0e88b331dd65d831d77740866380602927cf508a1",
+      "name": "s_camera_mediastreaming_rtc",
+      "requires_native": false
+    },
+    {
+      "disabled": true,
+      "hash": "",
+      "name": "s_fizz_mediastreaming",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "7632f1e2ce5c9285a779e3c15b418419f5c12efffee2e2b42d53b0b3cb99cfb9",
+      "name": "s_fizz_msys",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "d0b0f6ca4bca0176494c5bc3999a777153595aafd0d6a8167ab2a595182c86cd",
+      "name": "s_fizz_msysinfra",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "63d45bee6c29972286c12267076f7f83e9ae2db13fd9a1d51b462616032e7b01",
+      "name": "s_heroplayer_rtc",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "49d22a528b520a26a6dca5ed4f6550bd3452ad6bedce242135ae1594e8de9c2f",
+      "name": "s_libunwindstack_profilo",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "",
+      "name": "s_mediastreaming_msys",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "7ef3648ececf6852c674a12fbb0ace1ef669ab2f91c062767cb4fe5cdae22d5e",
+      "name": "s_mediastreaming_msys_rtc",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "dbb2e4a6f24f333583a3008c10168e770db7791848eba6d0a692cedd1fc56de1",
+      "name": "s_mediastreaming_msysinfra",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "",
+      "name": "s_mediastreaming_msysinfra_profilo",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "944cfebf3eb467701a8d041a07cb7223f3b0d0fd66970594c0887fd15f9f6d0d",
+      "name": "s_mediastreaming_rtc",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "e16568bca94ad1956e84e84363c43444ff2ea75b38906b1e0f989f8f29c7377f",
+      "name": "s_mnshttp_msys",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "c0103bc03d039a39cabfe940d8ffc8246d101b5957b6a62591ee5ef6da41d9a7",
+      "name": "s_msys_rtc",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "ed8f2d1c660185614e479468ba03a52230c7ad2dceaf591a8f89a75ee50488d9",
+      "name": "s_multisignalanrdetector_profilo",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "346a8018880ac15f5ee7a669da1a65bddcc5e4cf51e19b61883d2ab60ef82192",
+      "name": "shared_fizz_ms_profilo",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "725a5559b38453e740f26effd2611c7fa0297accfd779ed882e5b4274b1e33ca",
+      "name": "uiqr",
+      "requires_native": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">Lite-এ যোগ করুন</string>
+    <string name="accessibility_link_role">লিঙ্ক</string>
+    <string name="audio_player_content_description">অডিও প্লেয়ার</string>
+    <string name="common_google_play_services_unknown_issue">Google Play পরিষেবাগুলির সাথে %1$s এর সমস্যা হচ্ছে৷ অনুগ্রহ করে আবার চেষ্টা করুন৷</string>
+    <string name="dcp_mock_payment_alert_text">আপনি কি একটি মক অর্থপ্রদানের সাথে এগিয়ে যেতে চান? আপনার কাছ থেকে দাম নেওয়া হবে না।</string>
+    <string name="dialog_cancel">বাতিল করুন</string>
+    <string name="dialog_ok">ঠিক আছে</string>
+    <string name="external_share_to_groups_intent_label">আপনার গ্রুপ</string>
+    <string name="external_share_to_messaging_intent_label">মেসেজিং</string>
+    <string name="external_share_to_story_intent_label">আপনার স্টোরি</string>
+</resources>

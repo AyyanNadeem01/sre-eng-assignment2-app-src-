@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">Lite\'tti dabali</string>
+    <string name="accessibility_link_role">Geessituu</string>
+    <string name="audio_player_content_description">Taphachiisaa sagalee</string>
+    <string name="dcp_mock_payment_alert_text">Kaffaltii fakkeessaatiin fuulduratti deemuu barbaadduu? kaffaltiin isin irraa hin jiraatu.</string>
+    <string name="dialog_cancel">Dhiisi</string>
+    <string name="dialog_ok">TOLE</string>
+    <string name="external_share_to_groups_intent_label">Gareewwanke</string>
+    <string name="external_share_to_messaging_intent_label">Dhamsergaa</string>
+    <string name="external_share_to_story_intent_label">Waayessaake</string>
+</resources>

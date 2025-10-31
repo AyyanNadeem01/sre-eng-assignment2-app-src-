@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">افزودن به Lite</string>
+    <string name="accessibility_link_role">پیوند</string>
+    <string name="audio_player_content_description">پخش‌کننده صوتی</string>
+    <string name="audio_player_percentage_description">%1$d٪</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s برای استفاده از خدمات Google Play با مشکل روبرو است. لطفاً دوباره امتحان کنید.</string>
+    <string name="dcp_mock_payment_alert_text">آیا می‌خواهید با یک پرداخت ساختگی ادامه دهید؟ هزینه‌ای از شما کسر نمی‌شود.</string>
+    <string name="dialog_cancel">لغو</string>
+    <string name="dialog_ok">تأیید</string>
+    <string name="external_share_to_groups_intent_label">گروه‌های شما</string>
+    <string name="external_share_to_messaging_intent_label">پیام‌رسانی</string>
+    <string name="external_share_to_story_intent_label">داستان شما</string>
+</resources>

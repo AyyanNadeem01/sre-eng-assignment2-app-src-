@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">Emoî Lite-pe</string>
+    <string name="audio_player_content_description">Audio reproductor</string>
+    <string name="dcp_mock_payment_alert_text">Rehoseve piko peteĩ jehepyme\'ẽ gua\'u reheve? Ndojevirujapyhýita ndéve.</string>
+    <string name="dialog_cancel">Ehejánte</string>
+    <string name="dialog_ok">NÉÎ</string>
+    <string name="external_share_to_groups_intent_label">Nde atykuéra</string>
+    <string name="external_share_to_messaging_intent_label">Marandurã</string>
+    <string name="external_share_to_story_intent_label">Ne rembiasakue</string>
+</resources>

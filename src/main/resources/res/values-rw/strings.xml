@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">Kongera kuri Lite</string>
+    <string name="accessibility_link_role">Ihuza</string>
+    <string name="audio_player_content_description">Incurangamajwi</string>
+    <string name="dcp_mock_payment_alert_text">Urifuza gukomeza kwishyura by’igerageza? Ntuzajya uvanwaho amafaranga.</string>
+    <string name="dialog_cancel">Kureka</string>
+    <string name="dialog_ok">YEGO</string>
+    <string name="external_share_to_groups_intent_label">Amatsinda yawe</string>
+    <string name="external_share_to_messaging_intent_label">Ihanahanabutumwa</string>
+    <string name="external_share_to_story_intent_label">Inkuru yawe</string>
+</resources>

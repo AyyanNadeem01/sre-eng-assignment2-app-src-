@@ -1,0 +1,226 @@
+{
+  "EBFetchIsMinosEnabled": {
+    "operation_name": "EBFetchIsMinosEnabled",
+    "operation_name_hash": "2410044792",
+    "operation_text_hash": "6737859209461669664",
+    "client_doc_id": "24100447926737859209461669664",
+    "schema": "facebook"
+  },
+  "EBFetchVirtualDeviceInfoForDeviceAdditionQuery": {
+    "operation_name": "EBFetchVirtualDeviceInfoForDeviceAdditionQuery",
+    "operation_name_hash": "2561766570",
+    "operation_text_hash": "654009501962969413",
+    "client_doc_id": "2561766570654009501962969413",
+    "schema": "facebook"
+  },
+  "EBFetchVirtualDeviceInfoForDeviceAdditionV2Query": {
+    "operation_name": "EBFetchVirtualDeviceInfoForDeviceAdditionV2Query",
+    "operation_name_hash": "76286044",
+    "operation_text_hash": "4519939410566938319",
+    "client_doc_id": "762860444519939410566938319",
+    "schema": "facebook"
+  },
+  "EBUpdateMinosUploadEnabledMutation": {
+    "operation_name": "EBUpdateMinosUploadEnabledMutation",
+    "operation_name_hash": "3011536604",
+    "operation_text_hash": "9149872340165958690",
+    "client_doc_id": "30115366049149872340165958690",
+    "schema": "facebook"
+  },
+  "EbFetchPinReminders": {
+    "operation_name": "EbFetchPinReminders",
+    "operation_name_hash": "370813217",
+    "operation_text_hash": "15767525021837976076",
+    "client_doc_id": "37081321715767525021837976076",
+    "schema": "facebook"
+  },
+  "EbPinReminderClearContinuousImpressionCount": {
+    "operation_name": "EbPinReminderClearContinuousImpressionCount",
+    "operation_name_hash": "163838152",
+    "operation_text_hash": "13073983258899198820",
+    "client_doc_id": "16383815213073983258899198820",
+    "schema": "facebook"
+  },
+  "EbPinReminderCreateOrUpdateReminder": {
+    "operation_name": "EbPinReminderCreateOrUpdateReminder",
+    "operation_name_hash": "3189111642",
+    "operation_text_hash": "13353029443659230195",
+    "client_doc_id": "318911164213353029443659230195",
+    "schema": "facebook"
+  },
+  "EbPinReminderDeleteAllReminders": {
+    "operation_name": "EbPinReminderDeleteAllReminders",
+    "operation_name_hash": "3713921327",
+    "operation_text_hash": "11563012932268505236",
+    "client_doc_id": "371392132711563012932268505236",
+    "schema": "facebook"
+  },
+  "EbPinReminderIncrementContinuousImpressionCount": {
+    "operation_name": "EbPinReminderIncrementContinuousImpressionCount",
+    "operation_name_hash": "2034683122",
+    "operation_text_hash": "11464754153291302367",
+    "client_doc_id": "203468312211464754153291302367",
+    "schema": "facebook"
+  },
+  "EbPinReminderUpdateLatestImpressionTimestamp": {
+    "operation_name": "EbPinReminderUpdateLatestImpressionTimestamp",
+    "operation_name_hash": "2257218902",
+    "operation_text_hash": "13446242885372626304",
+    "client_doc_id": "225721890213446242885372626304",
+    "schema": "facebook"
+  },
+  "EbPinReminderUpdateRisk": {
+    "operation_name": "EbPinReminderUpdateRisk",
+    "operation_name_hash": "2157066341",
+    "operation_text_hash": "15442882221454738846",
+    "client_doc_id": "215706634115442882221454738846",
+    "schema": "facebook"
+  },
+  "EncryptedBackupsFetchBackupQuery": {
+    "operation_name": "EncryptedBackupsFetchBackupQuery",
+    "operation_name_hash": "2169836120",
+    "operation_text_hash": "6678803313070961788",
+    "client_doc_id": "21698361206678803313070961788",
+    "schema": "facebook"
+  },
+  "EotrFetchPinResetEBEligibleDevices": {
+    "operation_name": "EotrFetchPinResetEBEligibleDevices",
+    "operation_name_hash": "716155406",
+    "operation_text_hash": "17262998424411516101",
+    "client_doc_id": "71615540617262998424411516101",
+    "schema": "facebook"
+  },
+  "EotrPinResetSendNotification": {
+    "operation_name": "EotrPinResetSendNotification",
+    "operation_name_hash": "562995528",
+    "operation_text_hash": "4310062877362030687",
+    "client_doc_id": "5629955284310062877362030687",
+    "schema": "facebook"
+  },
+  "FBLiteACSConfigQuery": {
+    "operation_name": "FBLiteACSConfigQuery",
+    "operation_name_hash": "2493565867",
+    "operation_text_hash": "8837589645254731879",
+    "client_doc_id": "24935658678837589645254731879",
+    "schema": "facebook"
+  },
+  "FBLiteACSIssueQuery": {
+    "operation_name": "FBLiteACSIssueQuery",
+    "operation_name_hash": "1333683203",
+    "operation_text_hash": "12674549329476573203",
+    "client_doc_id": "133368320312674549329476573203",
+    "schema": "facebook"
+  },
+  "FBLiteEncryptedBackupsAutoEBUpsellQuery": {
+    "operation_name": "FBLiteEncryptedBackupsAutoEBUpsellQuery",
+    "operation_name_hash": "166280941",
+    "operation_text_hash": "4736808061986382930",
+    "client_doc_id": "1662809414736808061986382930",
+    "schema": "facebook"
+  },
+  "FBLiteGenAINuxConsentStatusQuery": {
+    "operation_name": "FBLiteGenAINuxConsentStatusQuery",
+    "operation_name_hash": "353094164",
+    "operation_text_hash": "6903966869974642072",
+    "client_doc_id": "3530941646903966869974642072",
+    "schema": "facebook"
+  },
+  "FBLiteGenAIWriteConsentMutation": {
+    "operation_name": "FBLiteGenAIWriteConsentMutation",
+    "operation_name_hash": "648439162",
+    "operation_text_hash": "3213777202477520053",
+    "client_doc_id": "6484391623213777202477520053",
+    "schema": "facebook"
+  },
+  "FBLiteMutualFriendsCountQuery": {
+    "operation_name": "FBLiteMutualFriendsCountQuery",
+    "operation_name_hash": "2795313305",
+    "operation_text_hash": "15138180346234377902",
+    "client_doc_id": "279531330515138180346234377902",
+    "schema": "facebook"
+  },
+  "FBLiteOHAIConfigsQuery": {
+    "operation_name": "FBLiteOHAIConfigsQuery",
+    "operation_name_hash": "773484511",
+    "operation_text_hash": "14687445388743097482",
+    "client_doc_id": "77348451114687445388743097482",
+    "schema": "facebook"
+  },
+  "MSGRMediaReceiverFetchDeidentifiedQuery": {
+    "operation_name": "MSGRMediaReceiverFetchDeidentifiedQuery",
+    "operation_name_hash": "456395311",
+    "operation_text_hash": "834094427241945098",
+    "client_doc_id": "456395311834094427241945098",
+    "schema": "facebook"
+  },
+  "MSGXMAReceiverFetchDeidentifiedQuery": {
+    "operation_name": "MSGXMAReceiverFetchDeidentifiedQuery",
+    "operation_name_hash": "2041686318",
+    "operation_text_hash": "9083114605429208335",
+    "client_doc_id": "20416863189083114605429208335",
+    "schema": "facebook"
+  },
+  "MinosFetchMailboxPublicKeysQuery": {
+    "operation_name": "MinosFetchMailboxPublicKeysQuery",
+    "operation_name_hash": "3891420270",
+    "operation_text_hash": "2707024402448958536",
+    "client_doc_id": "38914202702707024402448958536",
+    "schema": "facebook"
+  },
+  "MinosRegisterMessageEncryptionKeyMutationMutation": {
+    "operation_name": "MinosRegisterMessageEncryptionKeyMutationMutation",
+    "operation_name_hash": "3974387284",
+    "operation_text_hash": "3798360905891044221",
+    "client_doc_id": "39743872843798360905891044221",
+    "schema": "facebook"
+  },
+  "UpdateSharedLinkMetaDataMutation": {
+    "operation_name": "UpdateSharedLinkMetaDataMutation",
+    "operation_name_hash": "1777989739",
+    "operation_text_hash": "14139230196092003714",
+    "client_doc_id": "177798973914139230196092003714",
+    "schema": "facebook"
+  },
+  "VestaServerLoginBeginMutation": {
+    "operation_name": "VestaServerLoginBeginMutation",
+    "operation_name_hash": "1611127441",
+    "operation_text_hash": "14812753175238447934",
+    "client_doc_id": "161112744114812753175238447934",
+    "schema": "facebook"
+  },
+  "VestaServerLoginFinishMutation": {
+    "operation_name": "VestaServerLoginFinishMutation",
+    "operation_name_hash": "2628548444",
+    "operation_text_hash": "10666727152995523435",
+    "client_doc_id": "262854844410666727152995523435",
+    "schema": "facebook"
+  },
+  "VestaServerLoginInitQuery": {
+    "operation_name": "VestaServerLoginInitQuery",
+    "operation_name_hash": "819100984",
+    "operation_text_hash": "9643898795670623308",
+    "client_doc_id": "8191009849643898795670623308",
+    "schema": "facebook"
+  },
+  "VestaServerRegisterBeginMutation": {
+    "operation_name": "VestaServerRegisterBeginMutation",
+    "operation_name_hash": "829329851",
+    "operation_text_hash": "17269950279138038318",
+    "client_doc_id": "82932985117269950279138038318",
+    "schema": "facebook"
+  },
+  "VestaServerRegisterFinishMutation": {
+    "operation_name": "VestaServerRegisterFinishMutation",
+    "operation_name_hash": "1516465281",
+    "operation_text_hash": "14556627057137248787",
+    "client_doc_id": "151646528114556627057137248787",
+    "schema": "facebook"
+  },
+  "VestaServerRegisterInitQuery": {
+    "operation_name": "VestaServerRegisterInitQuery",
+    "operation_name_hash": "2552437880",
+    "operation_text_hash": "16365814989467546110",
+    "client_doc_id": "255243788016365814989467546110",
+    "schema": "facebook"
+  }
+}

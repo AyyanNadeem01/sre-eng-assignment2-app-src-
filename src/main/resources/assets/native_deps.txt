@@ -1,0 +1,14 @@
+13
+log
+m
+dl
+c
+jnigraphics
+z
+stdc++
+android
+c++_shared 3 2
+breakpad_cpp_helper 6 3 2
+superpack-jni 7 3 2 0
+breakpad 8 1 0
+everythingmerged 11 5 4

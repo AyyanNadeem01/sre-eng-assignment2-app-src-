@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">In Lite posten</string>
+    <string name="audio_player_content_description">Audio Player</string>
+    <string name="audio_player_percentage_description">%1$d %%</string>
+    <string name="common_google_play_services_unknown_issue">%1$s hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal.</string>
+    <string name="dcp_mock_payment_alert_text">Möchtest du mit einer fiktiven Zahlung fortfahren? Du musst nichts dafür bezahlen.</string>
+    <string name="dialog_cancel">Abbrechen</string>
+    <string name="external_share_to_groups_intent_label">Deine Gruppen</string>
+    <string name="external_share_to_story_intent_label">Deine Story</string>
+</resources>

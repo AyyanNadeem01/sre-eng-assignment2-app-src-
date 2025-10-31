@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="Images"
+        path="."/>
+    <cache-path
+        name="WebViewUploads"
+        path="webview_uploads"/>
+    <cache-path
+        name="NotifRichContent"
+        path="tempfiles/rich_content"/>
+</paths>

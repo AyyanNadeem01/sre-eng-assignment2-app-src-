@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">Добавить в Lite</string>
+    <string name="accessibility_link_role">Ссылка</string>
+    <string name="audio_player_content_description">Аудиоплеер</string>
+    <string name="audio_player_percentage_description">%1$d %%</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="dcp_mock_payment_alert_text">Хотите продолжить, используя тестовый платеж? Списание реальных средств выполнено не будет.</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="external_share_to_groups_intent_label">Ваши группы</string>
+    <string name="external_share_to_messaging_intent_label">Сообщения</string>
+    <string name="external_share_to_story_intent_label">Ваша история</string>
+</resources>

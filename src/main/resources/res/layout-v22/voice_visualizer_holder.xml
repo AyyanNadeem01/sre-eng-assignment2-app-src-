@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.xapp.messaging.audio.waveforms.VoiceVisualizer xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/audio_player_waveform"
+    android:paddingLeft="@dimen/audio_player_waveform_padding"
+    android:paddingRight="@dimen/audio_player_waveform_padding"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingHorizontal="@dimen/audio_player_waveform_padding"
+    app:scrubbingHandleWidth="@dimen/audio_bubble_scrubbing_handle_width"
+    app:segmentPadding="@dimen/mig_space_xxsmall"
+    app:segmentSpacing="@dimen/audio_bubble_waveform_segment_spacing"
+    app:segmentWidth="@dimen/audio_bubble_waveform_segment_width"/>

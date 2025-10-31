@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">Legg til i Lite</string>
+    <string name="accessibility_link_role">Lenke</string>
+    <string name="audio_player_content_description">Lydavspiller</string>
+    <string name="audio_player_percentage_description">%1$d %%</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv på nytt.</string>
+    <string name="dcp_mock_payment_alert_text">Vil du fortsette med en testbetaling? Du kommer ikke til å bli belastet.</string>
+    <string name="dialog_cancel">Avbryt</string>
+    <string name="external_share_to_groups_intent_label">Gruppene dine</string>
+    <string name="external_share_to_messaging_intent_label">Meldinger</string>
+    <string name="external_share_to_story_intent_label">Din historie</string>
+</resources>
