@@ -14,3 +14,4 @@ exams break from 30dec
 exams break from 31dec 
 exams break from 01jan 
 exams break from 02jan 
+exams break from 03jan 
